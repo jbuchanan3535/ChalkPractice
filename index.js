@@ -23,4 +23,4 @@ log(chalk.red('Running towards the nearby pond for some type of safe place, you 
 log(chalk.green('Then you hear a loud ringing sound, eveything begins to slow down. From the heat of the beasts breath to the seconds of time.'));
 log(chalk.green('You begin to realize that ringing sounds identical to your phone alarm...'));
 log(chalk.green('Sitting up in your bed you look into your mirror confused and say "time to go to mrs.markleys class"'));
-chalkAnimation.radar('Happy Monday :)');    // so anything with animation will appear at the bottom bc eveything else is a console log. no animated story sentences
+chalkAnimation.radar('Happy Monday :)');    // so, anything with animation will appear at the bottom bc eveything else is a console log. no animated story sentences
