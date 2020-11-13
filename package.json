@@ -1,0 +1,16 @@
+{
+  "name": "npmpractice",
+  "version": "1.0.0",
+  "description": "going to make an animated short story",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "chalk-animation": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": " (JB)",
+  "license": "ISC"
+}
